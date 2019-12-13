@@ -1,5 +1,5 @@
 const readlineSync = require('readline-sync');
-
+// delete me
 // getInput() is a function that takes a `prompt` as an argument which
 // is a question (string) to ask the user.
 // the returning value of getInput() is a string of whatever the user has typed as the response
