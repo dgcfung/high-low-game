@@ -84,5 +84,10 @@ function buildDeck() {
 
 
 
-   // BONUS - Edge Cases
+   // CHALLENGE BONUS - Edge Cases
    // What happens if the next card is not higher or lower, but equal to the previous card? Go back and adjust your code to account for this.
+
+
+
+   // STYLE BONUS
+   // Format and style your game with additional console logs. Add extra spaces, deviding lines, or borders. Perhaps an explanation of the rules- anything that makes your game nicer to play and look at.
