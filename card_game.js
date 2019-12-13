@@ -81,3 +81,8 @@ function buildDeck() {
   // 9. Close the conditional statement and assign nextCard to currentCard. You may have to write this as the type of variable that's always global...
   // 10. Close the while loop and use a ternary statement that checks if the length of the deck array has reached zero. If it has not, tell the user that they won. If it has reached zero, tell them that they're out of cards and they lost.
   // 11. Write a line of code to execute the playGame function.
+
+
+
+   // BONUS - Edge Cases
+   // What happens if the next card is not higher or lower, but equal to the previous card? Go back and adjust your code to account for this.
